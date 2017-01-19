@@ -1,0 +1,19 @@
+ECE-203
+Team 1
+Final Project
+
+
+Python Space Adventure
+Games:
+	Asteroid Dodging Game (Mercury)  - Andrew Vo
+	Simon Memory Game (Venus) - Stephen Daloisio
+	Space Quiz (Earth) - Eric Wan
+	Minesweeper Game (Mars) - Anthony Knesis
+	Alien Shooting Game (Jupiter) - Anthony Romano
+
+Notes:
+1. Install pygame. It will be necessary for the Asteroid dodging game and the Simon memory game.
+2. The main file is python_final_menu.py. Use it to create/load profiles, start the game, etc.
+3. Some features may not work depending on operating system. 
+   For example, if fonts do not work due to OS problems, replace all references to 'ar destine' and 'ocr a std' with 'arial'. Note, this may affect sizing issues.
+4. Enjoy!

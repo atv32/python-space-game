@@ -1,0 +1,21 @@
+(dp0
+S'name'
+p1
+S'Enter Name'
+p2
+sS'score4'
+p3
+I0
+sS'score5'
+p4
+I0
+sS'score1'
+p5
+I111
+sS'score2'
+p6
+I0
+sS'score3'
+p7
+I0
+s.
